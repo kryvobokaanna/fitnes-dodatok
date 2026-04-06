@@ -5,7 +5,7 @@
   "type": "module",
   "scripts": {
     "dev": "vite",
-    "build": "vite build --base=/energy.flow/",
+    "build": "vite build --base=/fitnes-dodatok/",
     "preview": "vite preview"
   },
   "devDependencies": {
